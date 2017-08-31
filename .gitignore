@@ -1,0 +1,26 @@
+#
+# Java Related Files/Folders To Ignore.
+#
+/**/build
+/**/*.class
+/**/*.classpath
+/**/.gradle
+/**/java-generated/
+/**/*.project
+/**/.settings
+/**/target
+/**/rebel.xml
+
+#
+# Miscellanous/Other Files/Folders To Ignore.
+#
+
+
+#
+# HFS (Apple) Related Files/Folders To Ignore.
+#
+/**/.DS_Store
+/target/
+/.settings/
+/.classpath
+/.project
